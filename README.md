@@ -69,13 +69,13 @@ I love building backend systems and solving real-world problems with data. I'm a
 ### 🌍 Socials
 
 <p align="center">
-  <a href="https://t.me/muhammadibrohimovceo" target="_blank">
+  <a href="https://t.me/khoshimjonov_sh" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:ibrokhimovmiu@gmail.com" target="_blank">
+  <a href="mailto:sherzodbekxoshimjonov92@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_muhammadibrohimov_" target="_blank">
+  <a href="https://www.instagram.com/xoshimjonov_09" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
