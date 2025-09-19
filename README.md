@@ -1,6 +1,14 @@
 # 👋 Assalomu alaykum! Men Sherzodbek
 ### Back-end web developer · SQL · Git · GitHub
 
+<!-- Qimirlaydigan qo‘l stiker (GIF) -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+
+<!-- Typing SVG (animatsiyali text) -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=2B6CB0&width=600&lines=My+skills%3A+Python;My+skills%3A+Django" alt="Typing SVG" />
+</p>
+
 <!-- Typing animation (SVG) -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=700&color=2b6cb0&center=true&vCenter=true&width=600&lines=Assalomu+alaykum!;Men+Sherzodbek,+Back-end+developer" alt="typing"/>
