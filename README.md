@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <p align="center"><b>Sherzodbek Xoshimjonov</b></p>
-<p align="center"><b>16 years old!</b></p>
 <p align="center">⚙️ Python Backend Developer | 🤖 Machine Learning & Data Science Enthusiast</p>
 
 <a href="https://wakatime.com/@4efda21c-a737-4ec0-ae71-a70077bc9189"><img src="https://wakatime.com/badge/user/4efda21c-a737-4ec0-ae71-a70077bc9189.svg" alt="Total time coded since Jul 10 2025" /></a>
@@ -8,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Assalamu+alaykum+%F0%9F%91%8B;I'm+Muhammadjon+Ibrohimov;Python+Backend+Developer;ML+%26+AI+Enthusiast;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Assalamu+alaykum+%F0%9F%91%8B;I'm+Sherzodbek+Xoshimjonov;I'm+16+years+old;Python+Backend+Developer;ML+%26+AI+Enthusiast;Welcome+to+my+GitHub+profile!" />
 </p>
 
 ---
