@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<p align="center"><b>Muhammadjon Ibrohimov</b></p>
+<p align="center"><b>Sherzodbek Xoshimjonov</b></p>
+<p align="center"><b>16 years old!</b></p>
 <p align="center">⚙️ Python Backend Developer | 🤖 Machine Learning & Data Science Enthusiast</p>
 
 <a href="https://wakatime.com/@4efda21c-a737-4ec0-ae71-a70077bc9189"><img src="https://wakatime.com/badge/user/4efda21c-a737-4ec0-ae71-a70077bc9189.svg" alt="Total time coded since Jul 10 2025" /></a>
