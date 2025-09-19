@@ -63,24 +63,24 @@ I love building backend systems and solving real-world problems with data. I'm a
 <div align="center">
   
   <!-- Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimov-ai&show_icons=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherzodbekxoshimjonov-ai&show_icons=true&theme=dark" />
 
 
   
   <!-- Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadibrohimov-ai&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherzodbekxoshimjonov-ai&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
 </div>
 
 <div align="center">
   
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadibrohimov-ai&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=764ba2&currStreakLabel=667eea&sideLabels=ffffff&currStreakNum=f093fb&dates=ffffff&sideNums=667eea" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherzodbekxoshimjonov-ai&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=764ba2&currStreakLabel=667eea&sideLabels=ffffff&currStreakNum=f093fb&dates=ffffff&sideNums=667eea" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadibrohimov-ai&theme=radical&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sherzodbekxoshimjonov-ai&theme=radical&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&hide_border=true" width="100%"/>
 </div>
 
 <!-- Separator -->
