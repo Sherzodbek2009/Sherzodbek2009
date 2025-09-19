@@ -1,83 +1,30 @@
-# 👋 Assalomu alaykum! Men Sherzodbek
-### Back-end web developer · SQL · Git · GitHub
+<img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47rzgvaqz03cae4ugawpvo0ghsc4v2cq4u4zwd40ta&rid=giphy.gif&ct=s" width="200px">
 
-<!-- Qimirlaydigan qo‘l stiker (GIF) -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+ <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="azamjonusmonaliyev">
 
-<!-- Typing SVG (animatsiyali text) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalomu+alaykum!;My+name+is+A'zamjon+;Back-end+web+developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BFF63&random=false&width=435&lines=MY+SKILLS+%3A+Python++Django++DRF+(API)++;SQL++Git++Github+Telegram+Bot)](https://git.io/typing-svg)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azamjonusmonaliyev&label=Profile%20views&color=0e75b6&style=flat" alt="azamjonusmonaliyev" /> </p>
+
+
+ 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=2B6CB0&width=600&lines=My+skills%3A+Python;My+skills%3A+Django" alt="Typing SVG" />
+<a href="https://linkedin.com/in/azamjon-usmonaliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azamjon-usmonaliyev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/azamjon_usmonaliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azamjon_usmonaliyev" height="30" width="40" /></a>
 </p>
 
-<!-- Typing animation (SVG) -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=700&color=2b6cb0&center=true&vCenter=true&width=600&lines=Assalomu+alaykum!;Men+Sherzodbek,+Back-end+developer" alt="typing"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<!-- Right-side animated hero GIF -->
-<p align="right">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="coding" width="320"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azamjonusmonaliyev&show_icons=true&locale=en&layout=compact" alt="azamjonusmonaliyev" /></p>
 
-## 🔭 Nimalar qilaman
-- Django / Flask backend
-- PostgreSQL, REST API, Docker
-- Git & Code review
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azamjonusmonaliyev&show_icons=true&locale=en" alt="azamjonusmonaliyev" /></p>
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR-USERNAME)
 
----
 
-## 🌐 Bog'lanish
-[Telegram](https://t.me/YourTelegram) · [LinkedIn](https://www.linkedin.com/in/yourprofile) · youremail@example.com
 
----
 
-## 🛠 Languages & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact" height="160"/>
-</p>
-
----
-
-## ✨ Qanday qilib animatsiyalarni shaxsiylashtirish
-1. **Typing SVG**  
-   - Kodekdagi `https://readme-typing-svg.demolab.com?...&lines=...` URLidagi `lines=` qismiga o‘zingiz yozuvlaringizni qo‘ying (pointalarni `;` bilan ajrating).  
-   - Agar u ishlamasa, quyidagi o‘rnini sinab koʻring: `https://git.io/typing-svg?lines=Hello;World` (ba'zi xizmatlar URL qisqartirish orqali ham ishlaydi).
-
-2. **Hero GIF (qimirlaydigan rasm)**  
-   - Men misol uchun umumiy GIF qo‘ydim: `https://media.giphy.com/...gif`. Uni oʻzingiznikiga almashtiring: `![hero](./assets/hero.gif)` yoki to‘g‘ridan-to‘g‘ri URL bilan.  
-   - Agar o‘z GIF yaratmoqchi bo‘lsangiz: kichik video yoki Lottie animatsiyani GIF’ga aylantiring (LottieFiles yoki ezgif.com ishlatish mumkin). Tavsiya: kengligi 300–400px, fayl hajmi ≤ 1 MB (tez yuklanadi).
-
-3. **Animated Badges yoki Counters**  
-   - `ghpvc` (profile views) kabi servislar avtomatik ishlaydi va animatsion emas, lekin dinamik.  
-   - `github-readme-stats` va `streak-stats` kabi servislar ham dinamik rasmlar beradi (animatsiya emas, lekin har safar yangilanadi).
-
-4. **Icons & small animations**  
-   - SVG formatida kichik animatsiyalar ham qo‘yish mumkin (agar SVG ichida `<animate>` ishlatilgan bo‘lsa), lekin GitHub baʼzi inline SVG’larni sanitizatsiya qilishi mumkin — shuning uchun ishonchli xizmatlardan (readme-typing-svg, github-readme-stats) foydalanish eng xavfsiz yo‘l.
-
----
-
-## ⚠️ Eslatma va tavsiyalar
-- GitHub README ichida JavaScript yoki CSS ishlamaydi — shuning uchun barcha animatsiyalar rasm/SVG/GIF orqali bo‘lishi kerak.  
-- Katta GIF fayllari README yuklanishini sekinlashtiradi — optimallashtiring. (ezgif.com orqali compress qiling).  
-- Agar xohlasangiz, men siz uchun:  
-  1) `typing` matnini sizning ismingiz bilan toʻldirib beraman, va  
-  2) GitHub profil uchun mos GIF topab, README ichiga joylab beraman.  
-
----
-
-### Agar hozir xohlasangiz:
-Men README ichidagi `YOUR-USERNAME`, Telegram va LinkedIn linklarini sizning ma’lumotlaringiz bilan almashtirib, tayyor fayl yuboraman. Qaysi ismingiz va Telegram/LinkedIn URL’laringizni yozing — men README’ni toʻliq toʻldirib beraman. 😊
